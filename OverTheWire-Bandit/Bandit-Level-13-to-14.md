@@ -11,6 +11,7 @@ Instead of a standard password, this level gives us a private SSH key (sshkey.pr
 
 Introduction
 <img width="828" height="296" alt="image" src="https://github.com/user-attachments/assets/37dfad97-3bb4-4a59-a803-343fb6076af5" />
+
 The Concept: SSH Private Keys as Digital Badges
 
 In this level, we are not given a standard password text file for the next user. Instead, we find a file named sshkey.private.
