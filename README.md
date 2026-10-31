@@ -15,5 +15,3 @@ Every write-up here focuses on:
 2.  **Exploitation (PoC):** Step-by-step reproduction of the security loophole with proper HTTP/Terminal logs.
 3.  **Remediation:** Code-level fix recommendations to secure the infrastructure against the analyzed threat.
 
----
-💡 *Check out my fully formatted articles and stories on my official [Medium]([https://medium.com](https://medium.com/@ismayil.2006jj)) profile.*
